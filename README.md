@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocolicious&show_icons=true&theme=dark)](https://github.com/mocolicious/Mocolicious)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocolicious&show_icons=true&theme=dark)](https://github.com/mocolicious/Mocolicious)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocolicious&layout=compact&theme=dark)](https://github.com/mocolicious/Mocolicious)
 
