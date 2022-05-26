@@ -14,12 +14,6 @@
 </div>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/1280885882">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify">
-  </a>
-</div>
-
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/1280885882">
