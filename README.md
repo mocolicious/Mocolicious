@@ -14,13 +14,9 @@
 </div>
 </p>
 
-<!--
 <div align="center">
-  <a href="https://open.spotify.com/user/1280885882">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1280885882&cover_image=true&theme=default&bar_color_cover=false">
 </div>
--->
 
 ## My Statistics
 
