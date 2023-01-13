@@ -11,20 +11,16 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/-Solana%20Program%20Library-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solana%20Program%20Library-black?style=for-the-badge">
 </div>
 </p>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1280885882&cover_image=true&theme=default&bar_color_cover=false">
-</div>
 
 ## My Statistics
 
 <br/>
 <p align="left">
   <a href="https://github.com/mocolicious/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mocolicious&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mocolicious&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mocolicious&theme=gruvbox&hide_border=true" />
   </a>
 </p>
