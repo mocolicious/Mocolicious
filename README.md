@@ -2,7 +2,9 @@
   <b>Andrew M</b>
 </h1>
 
-<h3 style="text-align:center;">Hello! I'm Andrew Mocol, Software Engineer for Active Accreditation and CTO for Kinny Technologies Inc.</h3>
+<h3 style="text-align:center;">
+Hello! I'm Andrew Mocol, Software Engineer for <a href="https://activeaccreditation.com>Active Accreditation</a> and CTO for <a href="https://kinny.io>Kinny Technologies Inc.</a>_
+</h3>
 
 <br>
 
