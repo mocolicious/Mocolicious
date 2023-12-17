@@ -3,7 +3,7 @@
 </h1>
 
 <h3 style="text-align:center;">
-Hello! I'm Andrew Mocol, Software Engineer for <a href="https://activeaccreditation.com">Active Accreditation</a> and CTO for <a href="https://kinny.io">Kinny Technologies Inc.</a>
+Hello! I'm Andrew Mocol, CEO and Founder of Altude</a>
 </h3>
 
 <br>
