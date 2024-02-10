@@ -2,7 +2,7 @@
   <b>Andrew M</b>
 </h1>
 
-<h3 style="text-align:center;">
+<h3 align="center">
 Hello! I'm Andrew Mocol, CEO and Founder of Altude</a>
 </h3>
 
